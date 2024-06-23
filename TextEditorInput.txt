@@ -1,1 +1,2 @@
-HelloHelloHello
+This is a string.
+This string is on another line.
